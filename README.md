@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Dynamic Difficulty Adjustment for Intelligent Online Exams
 
 This project implements an **AI-powered online exam platform** that dynamically adjusts the **difficulty of questions** in real-time based on student performance, time taken, and behavior — enabling fairer and smarter evaluation.
